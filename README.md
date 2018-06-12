@@ -1,1 +1,1 @@
-# seminar
+# Please read this file first
